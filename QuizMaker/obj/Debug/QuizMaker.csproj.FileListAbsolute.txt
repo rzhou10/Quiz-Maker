@@ -1,0 +1,6 @@
+c:\users\class2018\documents\visual_studio_2015\Projects\QuizMaker\QuizMaker\bin\Debug\QuizMaker.exe.config
+C:\Users\Class2018\Documents\Visual_Studio_2015\Projects\QuizMaker\QuizMaker\obj\Debug\QuizMaker.csprojResolveAssemblyReference.cache
+C:\Users\Class2018\Documents\Visual_Studio_2015\Projects\QuizMaker\QuizMaker\bin\Debug\QuizMaker.exe
+C:\Users\Class2018\Documents\Visual_Studio_2015\Projects\QuizMaker\QuizMaker\bin\Debug\QuizMaker.pdb
+C:\Users\Class2018\Documents\Visual_Studio_2015\Projects\QuizMaker\QuizMaker\obj\Debug\QuizMaker.exe
+C:\Users\Class2018\Documents\Visual_Studio_2015\Projects\QuizMaker\QuizMaker\obj\Debug\QuizMaker.pdb
